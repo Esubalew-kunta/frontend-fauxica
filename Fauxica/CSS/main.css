@@ -79,7 +79,6 @@ h1{
 .cta-btns, .secondary-cta{
     display: flex;
     gap: 2em;
-    margin: ;
 }
 .primary-cta{
     background-color:#F1E2D1;
